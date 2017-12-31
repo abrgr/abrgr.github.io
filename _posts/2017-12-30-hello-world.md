@@ -8,7 +8,7 @@ published: true
 featured: true
 category: article
 tags:
-  - sample
+  - managing software teams
 ---
 # What I believe about software and the teams that build it
 
