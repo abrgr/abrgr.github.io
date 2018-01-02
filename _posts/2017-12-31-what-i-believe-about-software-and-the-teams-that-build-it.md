@@ -1,6 +1,6 @@
 ---
 published: true
-layout: default
+layout: post
 comments: true
 share: true
 description: Building great software
