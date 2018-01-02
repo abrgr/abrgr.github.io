@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://abrgr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  abrgr
 show_downloads: false
-google_analytics: 
+google_analytics: UA-4493841-1
 
 # Build settings
 markdown: kramdown
