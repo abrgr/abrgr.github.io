@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-## Computer science and the purpose of life or why the best computer scientists are Objectivists
+## Computer science and the purpose of life (or why the best computer scientists are Objectivists)
 
 # What is life and what is its purpose?
 Life is defined by the preservation of a bit of order in the midst of a Universe tending, inexorably, unremittingly towards disorder.  Life is the temporary maintenance of a low-entropy islands in an ever more entropic sea.
@@ -18,7 +18,7 @@ Our limiting thermodynamic factor is memory so our primary goal, as living being
 
 *This is a point to stop and think a bit.  We have just defined, quite precisely, the purpose of life, our prime directive as living creatures.  We are to construct the most efficient model of reality and act in accordance with it.*
 
-All of the above are inspired by [this fanatstic article](https://www.quantamagazine.org/the-computational-foundation-of-life-20170126/) and, in part, by Schrödinger's book, [What is Life](https://www.amazon.com/What-Life-Canto-Erwin-Schr%C3%B6dinger-ebook/dp/B00AHTN2T0/ref=sr_1_1?keywords=schrodinger&qid=1555792837&s=gateway&sr=8-1)
+All of the above are inspired by [this fanatstic article](https://www.quantamagazine.org/the-computational-foundation-of-life-20170126/) and, in part, by Schrödinger's book, [What is Life](https://www.amazon.com/What-Life-Canto-Erwin-Schr%C3%B6dinger-ebook/dp/B00AHTN2T0)
 
 # What does this imply about epistemology?
 What is real and what is true?  While humanity considered the problem of collectives quite seriously in antiquity, we seem to have lost interest in it in our modern times.  Yet it is central to our understanding of reality.
@@ -66,3 +66,5 @@ What allows us to say that these examples are presented in order of increasing "
 It is the job of the computer scientist to delve ever deeper into the meta.  Not only must the models we construct predict and enact the proper functioning of the concretions of reality but our models must predict and enable the evolution and creation of future such models.  That is, we must anticipate how future computer scientists will need to make use of the models and concepts that we have invented.
 
 It is the directness with which we deal with our models of reality and the existence and prominence of this game inside the game--this recursive model building--that makes computer science fairly unique and, perhaps second only to mathematics, deserving of a spot near the top of the fields of human endeavor that, practiced properly, bring one closest to harmony with the purpose of life.
+
+*Recommended reading for all computer scientists: [Introduction to Objectivist Epistemology](https://www.amazon.com/Introduction-Objectivist-Epistemology-Expanded-Second-ebook/dp/B002OSXD8C)*
