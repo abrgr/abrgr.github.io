@@ -1,5 +1,6 @@
 ---
 published: true
+description: "Thermodynamics, Objectivism, Computer Science, and the Purpose of Life"
 ---
 ## Computer science and the purpose of life (or why the best computer scientists are Objectivists)
 
