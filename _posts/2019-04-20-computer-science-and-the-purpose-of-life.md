@@ -18,7 +18,7 @@ Our limiting thermodynamic factor is memory so our primary goal, as living being
 
 *This is a point to stop and think a bit.  We have just defined, quite precisely, the purpose of life, our prime directive as living creatures.  We are to construct the most efficient model of reality and act in accordance with it.*
 
-All of the above are inspired by [this fanatstic article](https://www.quantamagazine.org/the-computational-foundation-of-life-20170126/) and, in part, by Schrödinger's book, [What is Life](https://www.amazon.com/What-Life-Canto-Erwin-Schr%C3%B6dinger-ebook/dp/B00AHTN2T0)
+All of the above are inspired by [this fanatstic article](https://www.quantamagazine.org/the-computational-foundation-of-life-20170126/) and, in part, by Schrödinger's book, [What is Life](https://www.amazon.com/What-Life-Canto-Erwin-Schr%C3%B6dinger-ebook/dp/B00AHTN2T0).
 
 # What does this imply about epistemology?
 What is real and what is true?  While humanity considered the problem of collectives quite seriously in antiquity, we seem to have lost interest in it in our modern times.  Yet it is central to our understanding of reality.
