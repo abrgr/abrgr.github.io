@@ -1,21 +1,15 @@
 ---
 layout: default
-description: ""
-headline: ""
 tags: []
+published: true
 ---
 {% if site.paginate %}
 {% for post in paginator.posts %}
 <article class="notepad-index-post post row">
     <div class="small-12 medium-3 large-2 columns datetime">
-<span class="notepad-post-meta">
+<span style="float:right" class="notepad-post-meta">
 <time datetime="{{ post.date | date_to_xmlschema }}">
-<span class="day">
-{{ post.date | date: "%d" }}
-</span>
-<span class="month-year">
-{{ post.date | date: "%B %Y" }}
-</span>
+{{ post.date | date: "%Y-%M-%d" }}
 </time>
 </span>
     </div>
@@ -31,10 +25,12 @@ tags: []
             <p>{{ post.content | strip_html | truncatewords:40 }}</p>
         </section>
 
+      	{% if false %}
         <div class="notepad-index-post-tags">
             {% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" title="Other posts from the {{ tag | capitalize }} category">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;{% endunless %}{% endfor %}
 
         </div>
+        {% endif %}
 
     </div>
 </article>
