@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Computer science and the purpose of life (or why the best computer scientists are Objectivists)
 
@@ -8,7 +8,7 @@ Life is defined by the preservation of a bit of order in the midst of a Universe
 
 While all the world around it is dispersing and smoothing out, life maintains barriers, along which energy is harvested from a stochastically-evolving environment.  The key aspect by which life--individual, low-entropy islands--is preserved is by predicting the evolution of the environment around it and utilizing those predictions to best extract useful energy, thereby sustaining itself.
 
-So we are reminded of Maxwell's Deamon, creating a selectively-permiable membrane capable of reducing overall entropy in a closed system.  The rub with Maxwell's Deamon and with life: predictions require memory, memory requires space, quantized space is finite, therefore memory must be finite, therefore memory must be erased, and memory erasure increases entropy.  Thus, over time, all of the "gains" produced by entropy reduction enabled by accurate predictions are precisely canceled out by the necessary act of forgetting.
+So we are reminded of Maxwell's Demon (or is it Daemon?), creating a selectively-permeable membrane capable of reducing overall entropy in a closed system.  The rub with Maxwell's Demon and with life: predictions require memory, memory requires space, quantized space is finite, therefore memory must be finite, therefore memory must be erased, and memory erasure increases entropy.  Thus, over time, all of the "gains" produced by entropy reduction enabled by accurate predictions are precisely canceled out by the necessary act of forgetting.
 
 The Universe is bound by thermodynamics.  We can thus, at best, hope to take out a low-entropy loan for some period, which the repo men of the Universe ensure we repay when it comes due.  The question then becomes, simply, *how do we extend the duration, increase the principle, or reduce the interest of our loan of life from the Universe?*
 
@@ -18,18 +18,18 @@ Our limiting thermodynamic factor is memory so our primary goal, as living being
 
 *This is a point to stop and think a bit.  We have just defined, quite precisely, the purpose of life, our prime directive as living creatures.  We are to construct the most efficient model of reality and act in accordance with it.*
 
-All of the above are inspired by [this fanatstic article](https://www.quantamagazine.org/the-computational-foundation-of-life-20170126/) and, in part, by Schrödinger's book, [What is Life](https://www.amazon.com/What-Life-Canto-Erwin-Schr%C3%B6dinger-ebook/dp/B00AHTN2T0).
+All of the above are inspired by [this fantastic article](https://www.quantamagazine.org/the-computational-foundation-of-life-20170126/) and, in part, by Schrödinger's book, [What is Life](https://www.amazon.com/What-Life-Canto-Erwin-Schr%C3%B6dinger-ebook/dp/B00AHTN2T0).
 
 # What does this imply about epistemology?
 What is real and what is true?  While humanity considered the problem of collectives quite seriously in antiquity, we seem to have lost interest in it in our modern times.  Yet it is central to our understanding of reality.
 
-Each of us is composed of billions of molecules, each composed of lots of atoms, themselves composed of lots of subatomic particles, the whole mess constantly bombarded by outside particles, subjected to quantum fluctuations, interpspersed with virtual particles bursting momentarily into being.  Yet I label this amalgam, "me."  Though the particles in "me" may exchange with the particles in "you" and though the constituents of "me" may leave and be replaced by foreign stand-ins, still, I say that I am "me" and you are "you."  It seems that our understanding of reality is dependent on the scale at which we undertake our examination.  Is the Ship of Theseus, patched over centuries until no board of the original remains, still the same ship?
+Each of us is composed of billions of molecules, each composed of lots of atoms, themselves composed of lots of subatomic particles, the whole mess constantly bombarded by outside particles, subjected to quantum fluctuations, interspersed with virtual particles bursting momentarily into being.  Yet I label this amalgam, "me."  Though the particles in "me" may exchange with the particles in "you" and though the constituents of "me" may leave and be replaced by foreign stand-ins, still, I say that I am "me" and you are "you."  It seems that our understanding of reality is dependent on the scale at which we undertake our examination.  Is the Ship of Theseus, patched over centuries until no board of the original remains, still the same ship?
 
-One uniquely unsatisfying answer to this is to reject our pedestrian notions of reality and identity and to write off the whole affair as an artifact of language, a quirk in our brains (though, how one might explain the persistence of any attirbute of our brains without a proper treatment of the problem of collectives remains a mystery to me).
+One uniquely unsatisfying answer to this is to reject our pedestrian notions of reality and identity and to write off the whole affair as an artifact of language, a quirk in our brains (though, how one might explain the persistence of any attribute of our brains without a proper treatment of the problem of collectives remains a mystery to me).
 
 On the other hand, the central tenet of Objectivism is that reality exists.  Objectivist epistemology notes "that the concept 'unit' involves an act of consciousness (a selective focus, a certain way of regarding things), but that it is **not** an arbitrary creation of consciousness: it is a method of identification or classification according to the attributes which a consciousness observes in reality."  That is, there is a reality--the constituent objects of which we each are made--and there are many valid **views** of that reality, projecting a set of identities and thus creating a set of units and concepts--the labeling of "humans" and "me" vs "you" even though the constituents of each of us may vary and even exchange.
 
-These views of reality (e.g. concepts or abstractions) are "a mental integration of two or more units posessing the same distinguishing characteristic(s), with their particular measurements omitted."  Having integrated units into a concept, one may then differentiate, identifying sub-concepts once subsumed under the integrated concept, by specifying some additional constraints.
+These views of reality (e.g. concepts or abstractions) are "a mental integration of two or more units possessing the same distinguishing characteristic(s), with their particular measurements omitted."  Having integrated units into a concept, one may then differentiate, identifying sub-concepts once subsumed under the integrated concept, by specifying some additional constraints.
 
 Objectivism rightly holds that the distinguishing characteristics used to define one concept apart from others varies with context.  As we gain deeper understanding of a subject, we are better able to differentiate one collective from another or may find that two previously separated collectives are better treated as one.  Still, we are left wanting a more satisfying means of determining which conceptual boundaries are "better" drawn than others.
 
@@ -41,7 +41,7 @@ So as we approach the problem of collectives with this thermodynamic lens, we ra
 
 * In other cases, a concept serves primarily to increase prediction quality.  For example, identifying a table as an object with a flat surface capable of supporting other objects allows a model to more reliably predict how it will interact with other objects than if it were more directly represented as five pieces of wood nailed together.
 
-* In still other cases, concepts serve a useful dual purpose.  The concept of "person" serves to compress billions of state variables about atoms into thousands of state variables about a person *and* it allows a model to significantly improve the accuracy of predicting what response smiling at any particular person is likely to ellicit.
+* In still other cases, concepts serve a useful dual purpose.  The concept of "person" serves to compress billions of state variables about atoms into thousands of state variables about a person *and* it allows a model to significantly improve the accuracy of predicting what response smiling at any particular person is likely to elicit.
 
 In all such cases, the creation of the concept is a "good" overlay on top of reality because it allows for better compression and/or better prediction.  That is, abstraction is compression and good compression is the differentiating aspect of living beings.
 
@@ -67,4 +67,4 @@ It is the job of the computer scientist to delve ever deeper into the meta.  Not
 
 It is the directness with which we deal with our models of reality and the existence and prominence of this game inside the game--this recursive model building--that makes computer science fairly unique and, perhaps second only to mathematics, deserving of a spot near the top of the fields of human endeavor that, practiced properly, bring one closest to harmony with the purpose of life.
 
-*Recommended reading for all computer scientists: [Introduction to Objectivist Epistemology](https://www.amazon.com/Introduction-Objectivist-Epistemology-Expanded-Second-ebook/dp/B002OSXD8C)*
+*Recommended reading for all computer scientists and fellow modelers of reality: [Introduction to Objectivist Epistemology](https://www.amazon.com/Introduction-Objectivist-Epistemology-Expanded-Second-ebook/dp/B002OSXD8C)*
