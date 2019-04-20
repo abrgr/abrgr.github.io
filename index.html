@@ -1,8 +1,7 @@
 ---
 layout: default
-description: ""
-headline: ""
 tags: []
+published: true
 ---
 {% if site.paginate %}
 {% for post in paginator.posts %}
@@ -23,7 +22,7 @@ tags: []
             </h3>
         </header>
         <section class="notepad-post-excerpt">
-            <p>{{ post.content | strip_html | truncatewords:40 }}</p>
+            <p>{{ post.description | strip_html | truncatewords:40 }}</p>
         </section>
     </div>
 </article>
