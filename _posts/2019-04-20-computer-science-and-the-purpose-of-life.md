@@ -1,9 +1,8 @@
 ---
 published: true
 description: "Thermodynamics, Objectivism, Computer Science, and the Purpose of Life"
+title: "Computer science and the purpose of life (or why the best computer scientists are Objectivists)"
 ---
-## Computer science and the purpose of life (or why the best computer scientists are Objectivists)
-
 # What is life and what is its purpose?
 Life is defined by the preservation of a bit of order in the midst of a Universe tending, inexorably, unremittingly towards disorder.  Life is the temporary maintenance of a low-entropy islands in an ever more entropic sea.
 
