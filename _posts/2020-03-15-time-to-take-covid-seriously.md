@@ -39,4 +39,4 @@ I know I've annoyed all of you over the past 2 months warning that this was goin
 
 * Wash your hands religiously and properly (20+ seconds) and continue to avoid touching your face. We're all at home, why go this extra step? Because it costs nothing to do.
 
-* I 
+* I go for outdoor walks and stay away from people we pass.
