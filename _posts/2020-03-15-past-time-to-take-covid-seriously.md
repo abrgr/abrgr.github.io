@@ -11,11 +11,13 @@ I know I've annoyed all of you over the past 2 months warning that this was goin
 
 * We take the convenience of modern society for granted. This isn't about guns but you all know that I believe in owning guns and most of you think that's silly. I own a gun because the time you actually need one is precisely the time when society isn't able to help you. You need your gun when the police are a few minutes away and there's a situation developing over the next few seconds. We're in that situation now. We are trained to defer to authority and let the government do our thinking. The FDA tells us what medicine is safe and effective and the legislature tells us what the bounds of proper social interaction ought to be. These institutions have failed us badly already and deserve no more credence as this pandemic continues. We **must** think for ourselves and take responsibility for our own wellbeing. Government officials care only about reelection. If you act early, you prevent the very panic that you need to justify action. Therefore, expect government to continue to act far too late to be of any use to us. If your city isn't yet on official lockdown, it's not because it's safe, it's because the government is too dumb or too scared to protect you. **YOU** must protect you now. We should all consider ourselves on lockdown now (and should have for a few weeks). Trusting in the governement to protect you now is like taking out fire insurance from a company that keeps all policy premiums in cash in your own house--you can be damn sure that your counterparty will be least able to pay exactly when you most need it. Hospitals are being overrun as we speak **in our areas**. If we continue our lives without **major** disruption, we may end up in hospitals at exactly the time they're least able to help us. **Please stay home and away from others.** This will get boring. It will seem so easy to take a quick trip to the store when you want some fresh vegetables. **Do not go unless it is an emergency.** Better yet, do not go. Let me know and I'll go for you.
 
-* The official statistics are wrong. [We have performed](https://ourworldindata.org/covid-testing), to date, a few more tests per capita than India and the Philipines and fewer than Armenia or Lithuania. COVID is already endemic where all of us live. You should assume and act as though anyone you meet or know already has it. I am trying not to see the over 60 crowd because I've been in NYC in the past 2 weeks and assume that I have it. The government is trying to quell panic, not to accurately inform those fighting the pandemic. People who need it are still refused tests.
+* The official statistics are wrong. [We have performed](https://ourworldindata.org/covid-testing), to date, a few more tests per capita than India and the Philipines and fewer than Armenia or Lithuania. COVID is already endemic where all of us live. You should assume and act as though anyone you meet or know already has it. I am trying not to see the over 60 crowd because [asymptomatic spreaders](https://www.cnn.com/2020/03/14/health/coronavirus-asymptomatic-spread/index.html) appear to be a primary transmission mechanism and I can't ensure that I don't have it. The government is trying to quell panic, not to accurately inform those fighting the pandemic. People who need them are still refused tests.
 
 * We do not have enough hospital beds, ICU space, ventilators, or medical staff to properly care for what's to come. **This is the whole problem.** Differing death rates across affected countries are purely a reflection of when their hospitals and ventilators fill up and when the number of critically-ill patients too far exceeds the number of well-enough-to-work medical staff. Based on current numbers, this is going to happen here. NYC's medical system will be overrun next week. SF is likely in a similar boat. Seattle is already there. **Care is being rationed right now in the United States.**
 
 ### What I'm actually doing
+
+To stop you from feeling silly (you shouldn't) maybe it would help to know that other people are taking this seriously. I am actually doing the following:
 
 * I have a full freezer and pantry. Aim to have 1 month of food at a minimum. This is not because I think grocery stores will be closed. It's because every interaction you have with others is an opportunity to get infected. There is no sense in not trying to limit these interactions. We love fresh vegetables and fruit. We won't be eating them in a week or two and that is, without a doubt, the best long-term course of action. Your long-term health benefits from fresh fruits and vegetables for the next 1-2 months round to 0.
 
@@ -42,6 +44,16 @@ I know I've annoyed all of you over the past 2 months warning that this was goin
 * Wash your hands religiously and properly (20+ seconds) and continue to avoid touching your face. We're all at home, why go this extra step? Because it costs nothing to do.
 
 * I go for outdoor walks and stay away from people we pass.
+
+* I have delayed non-essential, non-emergency doctor appointments.
+
+* Ask your doctor for a prescription for Hydroxychloroquine and fill it. It has the potential for serious side effects but is the standard of care for 
+
+## Summary
+
+Take literally any steps you possibly can to reduce your exposure. 1% reduced exposure is significant and worth enormous sacrifice. The post office can wait. The store can wait. You can get bored. Do not listen to the government in a few weeks if they tell you it's safe to return to normal. It will not be. Increase precaution much faster than they tell you to and reduce it **much** slower.
+
+We will get through this and our lives will return to normal. We will hang out with friends again and stop "social distancing." Life will go on and we will thrive. But we must make real sacrifices now to ensure that we actually return to normal in a few months. The point here is not to scare anyone. The point is to make you realize that it is not only OK but **absolutely vital** to act paranoid right now so that we can eliminate our paranoia and return to normal lives as quickly as possible.
 
 ## Help
 
