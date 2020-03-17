@@ -19,6 +19,8 @@ I know I've annoyed all of you over the past 2 months warning that this was goin
 
 * I have a full freezer and pantry. Aim to have 1 month of food at a minimum. This is not because I think grocery stores will be closed. It's because every interaction you have with others is an opportunity to get infected. There is no sense in not trying to limit these interactions. We love fresh vegetables and fruit. We won't be eating them in a week or two and that is, without a doubt, the best long-term course of action. Your long-term health benefits from fresh fruits and vegetables for the next 1-2 months round to 0.
 
+* **Stop all trips to any stores.** If it's an emergency, I will go for you in a mask and gloves and will disinfect it with clorox and [this](https://www.cureuv.com/collections/handheld-sterilizers/products/germawayuv-18-watt-handheld-uvc-surface-sterilizer).
+
 * I am actually being extra careful for the next few weeks. Hospitals will be overrun and I want to avoid accidents at all costs. Think about this when using a kitchen knife, carrying things down stairs, etc.
 
 * I have [Clorox wipes](https://smile.amazon.com/gp/product/B00HSC9F2C/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) and **I use them** a lot.
