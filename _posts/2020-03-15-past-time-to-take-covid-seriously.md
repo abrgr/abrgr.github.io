@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-## It's time to take COVID-19 seriously
+## It's well past time to take COVID-19 seriously
 
 I know I've annoyed all of you over the past 2 months warning that this was going to turn into a pandemic. It now is, officially. This was the clear trajectory from looking at the data and linear policy responses to a clearly exponential problem. Just because some are finally taking this seriously does not mean that all is clear. This situation will get much worse before it gets better. We are still acting too slow, testing too little, and living too normally.
 
