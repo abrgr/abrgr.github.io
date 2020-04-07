@@ -7,7 +7,7 @@ None happier than the bird. Tweets and chirps, bleeps and brrrs cut the crisp Ap
 
 Birds never improved their species, their tweets can’t spell OKR. Yet while the humans hide away in warm homes, speaking to each other through panels of glass as though that were their only route to salvation—talk or die! Stand held accountable by “the leads,” “the boss,” the modern-palatable, devoid of hierarchical class privilege, “manager,” just another role—the birds carry on. They sing and call in joy, mating with strangers, viruses be damned. Nest making, frivolous, effervescent life. Blissful pursuit of instinct if only pursuit didn’t imply the bullshit motivation we assign it. Blissful being of instinct, more like. Desire, do. Desire, do. From whence desire? Who cares! What next desire? No matter! Every moment brings desire anew and every desire the last and the only. Whim. Want. Never yearn. Yearnings don’t happen now but later and who’s to know later?
 
-This moment is and alone is. So compelling an existence! Ignorant of future, past subsumed in present state and the concept gone, to do what you want right now and always. That’s the Omar Kayam, Wolf Larsen, quit and go surfing dream. It exists. I hear it right now.
+This moment is and alone is. So compelling an existence! Ignorant of future, past subsumed in present state and the concept gone, to do what you want right now and always. That’s the Omar Khayyam, Wolf Larsen, quit and go surfing dream. It exists. I hear it right now.
 
 Life in the moment implies adversity. It necessitates narrow buffers between is and isn’t. Catastrophe looms but in the future, if only a moment away. Causality runs forward, not back, so fuck it.
 
