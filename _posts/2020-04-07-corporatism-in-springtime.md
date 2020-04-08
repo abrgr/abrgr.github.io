@@ -3,7 +3,7 @@ published: true
 ---
 Weebee weebee weebee. Chick chick. Tweet brrrr tweet tweet brrrr.
 
-None happier than the bird. Tweets and chirps, bleeps and brrrs cut the crisp April stillness. The humans have disappeared, their noxious noises of progress gone with them. What remains is the greenest—deepest green you’ve ever seen—grass, the high-contrast yellow of forsythia overlaid on pen and ink branches, bare just budding maple right beyond the green shoot, trimmed last fall 10’ bush trees.
+None happier than the bird. Tweets and chirps, bleeps and brrrs cut the crisp April stillness. The humans have disappeared, their noxious noises of progress gone with them. What remains is the greenest—deepest green you’ve ever seen—grass, the high-contrast yellow of forsythia overlaid on pen and ink branches, bare just budding maple right beyond the green shoot, trimmed last fall 10’ dogwood.
 
 Birds never improved their species, their tweets can’t spell OKR. Yet while the humans hide away in warm homes, speaking to each other through panels of glass as though that were their only route to salvation—talk or die! Stand held accountable by “the leads,” “the boss,” the modern-palatable, devoid of hierarchical class privilege, “manager,” just another role—the birds carry on. They sing and call in joy, mating with strangers, viruses be damned. Nest making, frivolous, effervescent life. Blissful pursuit of instinct if only pursuit didn’t imply the bullshit motivation we assign it. Blissful being of instinct, more like. Desire, do. Desire, do. From whence desire? Who cares! What next desire? No matter! Every moment brings desire anew and every desire the last and the only. Whim. Want. Never yearn. Yearnings don’t happen now but later and who’s to know later?
 
