@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Just about every disagreement that I’ve had among intelligent professionals comes down to a question of time horizon. Should we invest in A or B? Should we take on technical debt or not? Should we build a set of general and composable building blocks to reassemble into a solution for the problem at hand or just plug away on the surface-level problem? Should we pay up for fantastic talent or settle for more mediocre hands? Should we establish prescriptive processes and rigid, top-down edicts about how and which work gets done or should we create a culture of trust and imbue our people at all levels with the autonomy to explore, build, and prioritize? Well, what’s the time horizon on which we are evaluating our return?
 
