@@ -1,5 +1,6 @@
 ---
 published: true
+title: Long-Hidden Hells
 ---
 A beacon light  
 A young man's glory  
