@@ -89,4 +89,4 @@ Heads bowed and with nary a grin
 For what once was theirs and worth protecting  
 Now belonged to the wolves that they trained  
 For what’s worth protecting and yours for safekeeping  
-Once delegated you’ve lost and shall never regain
+Once delegated you’ve lost and never regain
