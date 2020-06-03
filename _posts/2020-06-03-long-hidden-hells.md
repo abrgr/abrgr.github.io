@@ -54,7 +54,7 @@ When freedom through veins once coursed
 We created an army  
 And set them to chase their prey  
 Each misguidedly thought  
-Was not be but only "they"  
+Was not me but only "they"  
   
 "They" grew ever more scary  
 And we more rich and fat  
@@ -63,5 +63,5 @@ To be disturbed by all that
   
 So short the leash of freedom  
 That we've left for ourselves  
-It's first tug on our neck  
+Its first tug on our neck  
 Uncovers long-hidden hells
