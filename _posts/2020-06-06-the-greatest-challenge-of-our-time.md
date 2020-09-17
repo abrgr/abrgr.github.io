@@ -13,7 +13,7 @@ Even if freedom remains the best means of achieving human utility and remains a 
 
 # Hints of a cause
 
-The giant corporations that politicians lambast for having an ever-growing command of our lives but, as evidenced by their revealed preferences, consumers adore, demonstrate that there are returns to centralization. These companies have chosen to bring multiple services into one firm rather than rely on the market to buy, combine, and resell aspects of the services they offer. Seeing this behavior from all of the most valuable firms in the world evinces a clear conclusion: a basket of infra-firm services generates more value today than a (hypothetical) similar basket of inter-firm services. The centalized authoritarianism of the East is enabled and made ascendant by precisely the same mechanisms as those that enable the Western mega-corporation.
+The giant corporations that politicians lambast for having an ever-growing command of our lives but, as evidenced by their revealed preferences, consumers adore, demonstrate that there are returns to centralization. These companies have chosen to bring multiple services into one firm rather than rely on the market to buy, combine, and resell aspects of the services they offer. Seeing this behavior from all of the most valuable firms in the world evinces a clear conclusion: a basket of intra-firm services generates more value today than a (hypothetical) similar basket of inter-firm services. The centalized authoritarianism of the East is enabled and made ascendant by precisely the same mechanisms as those that enable the Western mega-corporation.
 
 # Regulation and morality
 
