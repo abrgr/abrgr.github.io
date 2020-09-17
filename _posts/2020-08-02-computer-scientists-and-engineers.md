@@ -1,5 +1,10 @@
 ---
 published: true
+tags:
+  - Management
+  - Business
+  - Economics
+  - The greatest challenge of our time
 ---
 ## Computer scientists and engineers
 
