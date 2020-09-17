@@ -1,5 +1,7 @@
 ---
 published: true
+tags:
+  - Poetry
 ---
 Weebee weebee weebee. Chick chick. Tweet brrrr tweet tweet brrrr.
 
