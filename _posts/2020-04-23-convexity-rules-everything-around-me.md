@@ -1,5 +1,7 @@
 ---
 published: true
+tags:
+  - Management
 ---
 Today was a great day. Another engineering manager from a different group in our company, working on the same product, reached out to commiserate and ask for advice about how to effectively operate as a motivated builder trying to create value and do good within a political, corporate machine. Today was a great day because I found a fellow rebel and I apparently built a reputation as an independent, apolitical getter-done-er and thinker-for-myself-er.
 
