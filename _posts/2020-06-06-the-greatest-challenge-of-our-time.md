@@ -1,5 +1,10 @@
 ---
 published: true
+tags:
+  - Philosophy
+  - The greatest challenge of our time
+  - Economics
+  - Theory of the firm
 ---
 # The greatest challenge of our time 
 
