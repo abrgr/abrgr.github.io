@@ -1,5 +1,9 @@
 ---
 published: true
+tags:
+  - Poetry
+  - Freedom
+  - Philosophy
 ---
 In the mist-lost days of yesteryear  
 The wolf roamed far and wide  
