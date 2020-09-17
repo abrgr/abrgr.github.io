@@ -4,6 +4,7 @@ title: Long-Hidden Hells
 tags:
   - Poetry
   - Freedom
+  - Philosophy
 ---
 A beacon light  
 A young man's glory  
