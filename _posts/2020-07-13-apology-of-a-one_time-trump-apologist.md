@@ -1,6 +1,9 @@
 ---
 published: true
 title: Apology of a One-time Trump Apologist
+tags:
+  - Trump
+  - Politics
 ---
 America doesn’t exist in any real sense of the word. The greatness this country has achieved—and I do consider it the greatest boon to the condition of humanity the world has ever seen—is due entirely to our belief in the shared myths of our Constitution, institutions, and man-made, God-given rights. [Yuval Harari](https://www.ynharari.com/book/sapiens/) identifies shared myths as the uniquely human means of advancing our species and the myths the Founders built the United States upon are the most sacred to all of man. In reality, any government capable of regime change or annihilation of any nuclear-armed, million man army abroad can completely control its citizens’ speech, fully control the press, search and seize with abandon, fabricate trials and evidence, and generally trounce upon the so-called freedoms under which we all believe we live. The myth of power derived from the people, the unquestionable belief in a government beholden to and composed of the governed is all that stands between America and tyranny. The **belief** in the rights of the people and **not the rights themselves** is the source of American greatness. The rights do not exist but for the earnest and widespread belief in them.
 
