@@ -7,7 +7,7 @@ description: Building great software
 featured: true
 category: article
 tags:
-  - managing software teams
+  - Management
 ---
 Software is broken.  This is how I believe we can fix it.
 
