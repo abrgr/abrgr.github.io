@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'You cut, I choose'
 ---
 Many today are rightfully mourning the end of the American experiment and the erasure of American democracy. I mourn the end of the American experiment and the hopelessness facing the future of humanity that that will surely bring about but the genius of America and its role as the engine of progress for humanity has little to do with democracy.
